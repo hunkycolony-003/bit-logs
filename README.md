@@ -7,7 +7,7 @@ Bit-logs is my personal journal to track the progress of the courses/topics that
 Currently the study plan is in the following order:
 
 - [Discrete Mathematics](./Discrete_Mathematics/) (As a bacground of introTCS) 
-- Introduction to Theoretical Computer Science
+- (Introduction to Theoretical Computer Science)[https://cs121.boazbarak.org/]
 - (Continuation of) Foundation of cryptography 
 - Algorithms (Probably be paralelly)
 
